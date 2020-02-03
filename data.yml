@@ -1,0 +1,102 @@
+name: Duong Thanh Hop
+email: hopit.bkdn@gmail.com
+phone: 84919563184
+website:
+  url: https://duthaho.com
+  display: duthaho.com
+
+edu: Da Nang University of Technology
+
+work:
+  - title: Software Engineer
+    employer: Peddler.com
+    time: 2019 — Present
+    intro: ~
+    bullets:
+      - Building a social market place website for large-scale data analysis and
+        visualization using modern web technologies (NodeJS, ReactJS, AngularJS).
+        Projects include a highly performance, a platform that lets users discover,
+        buy and review the product they love.
+
+  - title: Software Engineer
+    employer: HT Active
+    time: 2018 — 2019
+    intro: >-
+      Co-founder of [HT Active](http://htactive.com/), a company with young and brilliant members,
+      offers a great service in the design, development and programming of your website/application.
+    bullets:
+      - Lead development of many web applications, built with JavaScript (NodeJS, React, Vue),
+        PHP (Laravel, WordPress), Python (Django).
+      - Advise organizations on product development, analytics, and engineering systems.
+      - Hire and manage additional developers and designers based on client needs.
+      - Interviews for engineering candidates and mentored junior developers.
+
+  - title: Software Engineer
+    employer: VNPT
+    time: 2017 — 2018
+    intro: ~
+    bullets:
+      - As a core member of the team, I built a desktop application for hospitals, integrated with HIS,
+        RIS systems, connected to x-ray, endoscope, and ultrasound machine. from the ground up.
+      - Lead development of license management website (.NET, React, Firebase), added key
+        features to the invoice website (.NET).
+      - Improve working process and apply the refactoring on code.
+
+  - title: Software Engineer
+    employer: GameLoft
+    time: 2013 — 2017
+    intro: ~
+    bullets:
+      - Managed a small team about 8 members, created and ported many famous games such as Asphalt 8,
+        World At Arm, CityMania.
+      - Coaching and supporting the whole division, implement new and hard features.
+      - Development many tools for improve working process.
+
+skills:
+  - JavaScript (TypeScript, React, React Native, Redux, Vue, Node.js)
+  - Python (Django)
+  - HTML, CSS
+  - SQL (MySQL), NoSQL (MongoDB), GraphQL
+  - Good understanding of OOP, Functional Programming, SOLID principles, design patterns
+  - Experience with Agile and Scrum development process
+  - Time management, Problem solving, Teamwork
+
+articles:
+  - title: Top Github repos that every developer should give a star
+    link: https://duthaho.com/a-bookmark-reading-list/
+
+  - title: What is the Prototype in JavaScript?
+    link: https://duthaho.com/prototype-in-javascript/
+
+  - title: The smart way to create and clone array in JavaScript
+    link: https://duthaho.com/js-creating-array/
+
+  - title: Think about First Class Functions in JavaScript
+    link: https://duthaho.com/js-first-class-functions/
+
+  - title: You don't know JavaScript Promise?
+    link: https://duthaho.com/js-promise/
+
+  - title: JavaScript **this context** in depth
+    link: https://duthaho.com/js-this-context/
+
+projects:
+  - name: JavaScrip quiz
+    url: http://quiz.duthaho.com.com
+    code: https://github.com/duthaho/js-quiz
+    description: The javascript quiz for learning
+
+  - name: A bookmark reading list for programmers
+    url: https://bookmark.duthaho.com
+    code: https://github.com/duthaho/bookmark
+    description: A bookmark reading list for programmers
+
+  - name: Free learning courses
+    url: http://docs.duthaho.com
+    code: https://github.com/duthaho/docs
+    description: A website for learning with free courses
+
+  - name: Blood alcohol calculator
+    url: https://nongdocon.duthaho.com
+    code: https://github.com/duthaho/nongdocon
+    description: A website for blood alcohol calculator
