@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "clean-css": "^4.1.9",
-    "js-yaml": "^3.10.0",
+    "js-yaml": "^3.13.1",
     "marked": "^0.3.17",
     "prettier": "^1.19.1",
     "react": "^16.2.0",
