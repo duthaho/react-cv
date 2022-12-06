@@ -26,7 +26,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "gh-pages": "^1.1.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "nodemon": "^1.17.1"
   },
   "babel": {
